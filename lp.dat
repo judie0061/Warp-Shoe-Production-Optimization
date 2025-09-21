@@ -1,0 +1,43 @@
+#Beichen_Du_dubeiche_1009971407
+#Cindy_Zhao_zhaocin3_1010078185
+
+
+table shoePrice "ODBC" "./WARP2011W.mdb" "Product_Master":
+    S <- [Product_Num], price ~ Sales_Price;
+	read table shoePrice;
+
+
+table demandTab "ODBC" "./WARP2011W.mdb" "SQL=SELECT Product_Num, SUM(Demand)/6 * 2 as Pdemand FROM Product_Demand WHERE Month=2 GROUP BY Product_Num":
+	S <- [Product_Num], demand~Pdemand;
+	read table demandTab;
+	
+	
+	
+
+
+table machineTab "ODBC" "./WARP2011W.mdb" "Machine_Master":
+	M <- [Machine_Num], oper_cost ~ OpCost_per_min;
+	read table machineTab;
+	
+	
+table rawMatTab "ODBC" "./WARP2011W.mdb" "RM_Master":
+	R <- [RM_Num], raw_mat_cost ~ Cost, raw_mat_avail ~ S_Quantity;
+	read table rawMatTab;
+	
+
+table warehouseTab "ODBC" "./WARP2011W.mdb" "Warehouse_Master":
+	W <- [Warehouse_Num], warehouse_cost ~ Op_Cost, warehouse_cap ~ Capacity;
+	read table warehouseTab;
+	
+
+table rawMatShoe "ODBC" "./WARP2011W.mdb" "BOM":
+	[Product_Num, RM_Num], raw_mat_use ~ Quantity;
+	read table rawMatShoe;
+
+
+table avgDurTab "ODBC" "./WARP2011W.mdb" "Machine_Assign":
+	[Product_Num,Machine_Num], duration ~ Avg_Duration;
+	read table avgDurTab;
+
+
+
