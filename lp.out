@@ -1,0 +1,645 @@
+profit = 11415800
+
+SH001: 0
+SH002: 524
+SH003: 0
+SH004: 88
+SH005: 111
+SH006: 0
+SH007: 0
+SH008: 0
+SH009: 0
+SH010: 0
+SH011: 506
+SH012: 211
+SH013: 496
+SH014: 0
+SH015: 0
+SH016: 0
+SH017: 0
+SH018: 68
+SH019: 41
+SH020: 0
+SH021: 0
+SH022: 0
+SH023: 0
+SH024: 155
+SH025: 346
+SH026: 0
+SH027: 446
+SH028: 0
+SH029: 454
+SH030: 0
+SH031: 252
+SH032: 573
+SH033: 0
+SH034: 435
+SH035: 0
+SH036: 0
+SH037: 0
+SH038: 558
+SH039: 428
+SH040: 505
+SH041: 284
+SH042: 209
+SH043: 0
+SH044: 516
+SH045: 187
+SH046: 0
+SH047: 479
+SH048: 185
+SH049: 0
+SH050: 505
+SH051: 0
+SH052: 0
+SH053: 0
+SH054: 0
+SH055: 0
+SH056: 0
+SH057: 101
+SH058: 317
+SH059: 0
+SH060: 209
+SH061: 330
+SH062: 535
+SH063: 346
+SH064: 0
+SH065: 451
+SH066: 0
+SH067: 0
+SH068: 0
+SH069: 0
+SH070: 0
+SH071: 371
+SH072: 0
+SH073: 37
+SH074: 0
+SH075: 0
+SH076: 38
+SH077: 159
+SH078: 396
+SH079: 0
+SH080: 478
+SH081: 160
+SH082: 259
+SH083: 10
+SH084: 0
+SH085: 0
+SH086: 0
+SH087: 484
+SH088: 494
+SH089: 0
+SH090: 554
+SH091: 0
+SH092: 108
+SH093: 99
+SH094: 304
+SH095: 493
+SH096: 516
+SH097: 0
+SH098: 0
+SH099: 0
+SH100: 0
+SH101: 0
+SH102: 0
+SH103: 0
+SH104: 0
+SH105: 488
+SH106: 51
+SH107: 0
+SH108: 0
+SH109: 0
+SH110: 387
+SH111: 0
+SH112: 0
+SH113: 530
+SH114: 0
+SH115: 0
+SH116: 199
+SH117: 0
+SH118: 300
+SH119: 39
+SH120: 0
+SH121: 593
+SH122: 0
+SH123: 0
+SH124: 0
+SH125: 0
+SH126: 6
+SH127: 106
+SH128: 0
+SH129: 0
+SH130: 57
+SH131: 0
+SH132: 0
+SH133: 0
+SH134: 457
+SH135: 0
+SH136: 0
+SH137: 0
+SH138: 0
+SH139: 0
+SH140: 0
+SH141: 0
+SH142: 447
+SH143: 0
+SH144: 524
+SH145: 43
+SH146: 201
+SH147: 184
+SH148: 0
+SH149: 29
+SH150: 496
+SH151: 0
+SH152: 0
+SH153: 0
+SH154: 370
+SH155: 0
+SH156: 0
+SH157: 0
+SH158: 0
+SH159: 0
+SH160: 0
+SH161: 0
+SH162: 0
+SH163: 0
+SH164: 0
+SH165: 537
+SH166: 0
+SH167: 0
+SH168: 126
+SH169: 0
+SH170: 0
+SH171: 0
+SH172: 0
+SH173: 398
+SH174: 0
+SH175: 0
+SH176: 525
+SH177: 0
+SH178: 69
+SH179: 0
+SH180: 0
+SH181: 0
+SH182: 0
+SH183: 0
+SH184: 0
+SH185: 192
+SH186: 0
+SH187: 106
+SH188: 224
+SH189: 0
+SH190: 0
+SH191: 0
+SH192: 18
+SH193: 0
+SH194: 217
+SH195: 488
+SH196: 0
+SH197: 510
+SH198: 0
+SH199: 0
+SH200: 0
+SH201: 556
+SH202: 0
+SH203: 584
+SH204: 0
+SH205: 456
+SH206: 0
+SH207: 0
+SH208: 0
+SH209: 483
+SH210: 0
+SH211: 0
+SH212: 0
+SH213: 510
+SH214: 0
+SH215: 0
+SH216: 0
+SH217: 285
+SH218: 0
+SH219: 0
+SH220: 0
+SH221: 546
+SH222: 0
+SH223: 477
+SH224: 346
+SH225: 442
+SH226: 489
+SH227: 239
+SH228: 0
+SH229: 0
+SH230: 0
+SH231: 0
+SH232: 369
+SH233: 438
+SH234: 473
+SH235: 514
+SH236: 419
+SH237: 0
+SH238: 354
+SH239: 124
+SH240: 0
+SH241: 415
+SH242: 0
+SH243: 0
+SH244: 274
+SH245: 0
+SH246: 0
+SH247: 85
+SH248: 148
+SH249: 473
+SH250: 0
+SH251: 0
+SH252: 0
+SH253: 445
+SH254: 452
+SH255: 32
+SH256: 507
+SH257: 0
+SH258: 0
+SH259: 85
+SH260: 0
+SH261: 477
+SH262: 480
+SH263: 0
+SH264: 0
+SH265: 386
+SH266: 0
+SH267: 0
+SH268: 0
+SH269: 501
+SH270: 44
+SH271: 0
+SH272: 0
+SH273: 113
+SH274: 0
+SH275: 0
+SH276: 273
+SH277: 493
+SH278: 0
+SH279: 12
+SH280: 0
+SH281: 345
+SH282: 484
+SH283: 0
+SH284: 381
+SH285: 0
+SH286: 407
+SH287: 479
+SH288: 18
+SH289: 362
+SH290: 5
+SH291: 0
+SH292: 0
+SH293: 0
+SH294: 0
+SH295: 471
+SH296: 0
+SH297: 0
+SH298: 0
+SH299: 362
+SH300: 499
+SH301: 0
+SH302: 0
+SH303: 0
+SH304: 0
+SH305: 0
+SH306: 0
+SH307: 92
+SH308: 289
+SH309: 0
+SH310: 0
+SH311: 0
+SH312: 556
+SH313: 564
+SH314: 456
+SH315: 0
+SH316: 187
+SH317: 479
+SH318: 0
+SH319: 0
+SH320: 539
+SH321: 0
+SH322: 82
+SH323: 0
+SH324: 0
+SH325: 554
+SH326: 24
+SH327: 0
+SH328: 46
+SH329: 467
+SH330: 0
+SH331: 0
+SH332: 0
+SH333: 0
+SH334: 451
+SH335: 0
+SH336: 0
+SH337: 0
+SH338: 504
+SH339: 0
+SH340: 547
+SH341: 462
+SH342: 408
+SH343: 0
+SH344: 0
+SH345: 263
+SH346: 0
+SH347: 134
+SH348: 570
+SH349: 0
+SH350: 0
+SH351: 0
+SH352: 463
+SH353: 0
+SH354: 0
+SH355: 0
+SH356: 212
+SH357: 0
+SH358: 0
+SH359: 0
+SH360: 0
+SH361: 329
+SH362: 463
+SH363: 0
+SH364: 0
+SH365: 149
+SH366: 238
+SH367: 439
+SH368: 0
+SH369: 441
+SH370: 0
+SH371: 0
+SH372: 298
+SH373: 458
+SH374: 0
+SH375: 0
+SH376: 0
+SH377: 0
+SH378: 493
+SH379: 216
+SH380: 0
+SH381: 195
+SH382: 0
+SH383: 0
+SH384: 589
+SH385: 0
+SH386: 0
+SH387: 0
+SH388: 0
+SH389: 0
+SH390: 0
+SH391: 0
+SH392: 0
+SH393: 0
+SH394: 0
+SH395: 536
+SH396: 0
+SH397: 0
+SH398: 0
+SH399: 415
+SH400: 50
+SH401: 0
+SH402: 0
+SH403: 0
+SH404: 0
+SH405: 0
+SH406: 0
+SH407: 510
+SH408: 0
+SH409: 0
+SH410: 157
+SH411: 292
+SH412: 0
+SH413: 0
+SH414: 0
+SH415: 320
+SH416: 0
+SH417: 562
+SH418: 244
+SH419: 451
+SH420: 51
+SH421: 486
+SH422: 0
+SH423: 544
+SH424: 0
+SH425: 535
+SH426: 17
+SH427: 557
+SH428: 0
+SH429: 86
+SH430: 502
+SH431: 0
+SH432: 0
+SH433: 0
+SH434: 0
+SH435: 162
+SH436: 0
+SH437: 0
+SH438: 56
+SH439: 0
+SH440: 0
+SH441: 0
+SH442: 0
+SH443: 0
+SH444: 145
+SH445: 540
+SH446: 0
+SH447: 318
+SH448: 0
+SH449: 137
+SH450: 0
+SH451: 531
+SH452: 0
+SH453: 549
+SH454: 0
+SH455: 194
+SH456: 502
+SH457: 0
+SH458: 0
+SH459: 171
+SH460: 0
+SH461: 0
+SH462: 379
+SH463: 0
+SH464: 364
+SH465: 197
+SH466: 514
+SH467: 140
+SH468: 37
+SH469: 0
+SH470: 396
+SH471: 428
+SH472: 89
+SH473: 417
+SH474: 281
+SH475: 0
+SH476: 486
+SH477: 193
+SH478: 395
+SH479: 553
+SH480: 0
+SH481: 0
+SH482: 0
+SH483: 507
+SH484: 0
+SH485: 0
+SH486: 0
+SH487: 60
+SH488: 0
+SH489: 359
+SH490: 571
+SH491: 303
+SH492: 92
+SH493: 0
+SH494: 24
+SH495: 160
+SH496: 0
+SH497: 525
+SH498: 398
+SH499: 0
+SH500: 496
+SH501: 491
+SH502: 0
+SH503: 0
+SH504: 0
+SH505: 0
+SH506: 0
+SH507: 0
+SH508: 389
+SH509: 0
+SH510: 0
+SH511: 464
+SH512: 335
+SH513: 260
+SH514: 463
+SH515: 0
+SH516: 496
+SH517: 0
+SH518: 0
+SH519: 0
+SH520: 114
+SH521: 421
+SH522: 0
+SH523: 95
+SH524: 0
+SH525: 125
+SH526: 0
+SH527: 251
+SH528: 0
+SH529: 0
+SH530: 0
+SH531: 0
+SH532: 519
+SH533: 0
+SH534: 389
+SH535: 514
+SH536: 361
+SH537: 42
+SH538: 0
+SH539: 0
+SH540: 68
+SH541: 0
+SH542: 0
+SH543: 414
+SH544: 0
+SH545: 0
+SH546: 262
+SH547: 81
+SH548: 0
+SH549: 6
+SH550: 0
+SH551: 0
+SH552: 46
+SH553: 0
+SH554: 0
+SH555: 0
+SH556: 456
+SH557: 549
+
+Binding Constraints: 
+	availability for raw material 1
+	availability for raw material 3
+	availability for raw material 4
+	availability for raw material 6
+	availability for raw material 9
+	availability for raw material 12
+	availability for raw material 13
+	availability for raw material 16
+	availability for raw material 17
+	availability for raw material 18
+	availability for raw material 20
+	availability for raw material 23
+	availability for raw material 31
+	availability for raw material 34
+	availability for raw material 37
+	availability for raw material 38
+	availability for raw material 41
+	availability for raw material 50
+	availability for raw material 53
+	availability for raw material 54
+	availability for raw material 55
+	availability for raw material 56
+	availability for raw material 57
+	availability for raw material 60
+	availability for raw material 61
+	availability for raw material 64
+	availability for raw material 65
+	availability for raw material 66
+	availability for raw material 67
+	availability for raw material 68
+	availability for raw material 69
+	availability for raw material 73
+	availability for raw material 76
+	availability for raw material 77
+	availability for raw material 80
+	availability for raw material 81
+	availability for raw material 82
+	availability for raw material 89
+	availability for raw material 90
+	availability for raw material 91
+	availability for raw material 93
+	availability for raw material 94
+	availability for raw material 96
+	availability for raw material 97
+	availability for raw material 100
+	availability for raw material 103
+	availability for raw material 104
+	availability for raw material 105
+	availability for raw material 106
+	availability for raw material 111
+	availability for raw material 113
+	availability for raw material 114
+	availability for raw material 115
+	availability for raw material 120
+	availability for raw material 121
+	availability for raw material 122
+	availability for raw material 124
+	availability for raw material 125
+	availability for raw material 127
+	availability for raw material 128
+	availability for raw material 129
+	availability for raw material 131
+	availability for raw material 132
+	availability for raw material 133
+	availability for raw material 135
+	availability for raw material 136
+	availability for raw material 137
+	availability for raw material 138
+	availability for raw material 140
+	availability for raw material 141
+	availability for raw material 142
+	availability for raw material 143
+	availability for raw material 145
+	availability for raw material 146
+	availability for raw material 147
+	availability for raw material 148
+	availability for raw material 149
+	availability for raw material 151
+	availability for raw material 152
+	availability for raw material 154
+	availability for raw material 156
+	availability for raw material 158
+	availability for raw material 159
+	availability for raw material 163

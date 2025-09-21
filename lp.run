@@ -1,0 +1,43 @@
+#Beichen_Du_dubeiche_1009971407
+#Cindy_Zhao_zhaocin3_1010078185
+
+
+reset;
+
+model dubeiche_zhaocin3.mod;
+data dubeiche_zhaocin3.dat;
+
+option solver gurobi;
+
+solve;
+
+display profit > dubeiche_zhaocin3.out;
+
+
+for {s in S} {
+	printf "%s: %d\n", s, round(x[s]) > dubeiche_zhaocin3.out;
+}
+
+printf "\nBinding Constraints: \n" > dubeiche_zhaocin3.out;
+
+if raw_mat_budget.slack == 0 then
+	printf "\traw mat budget is binding\n" > dubeiche_zhaocin3.out;
+
+for {r in R} {
+	
+	if raw_mat_availability[r].slack == 0 then
+		printf "\tavailability for raw material %s\n", r > dubeiche_zhaocin3.out;
+	
+	}
+
+
+for {m in M} {
+	if machine_time_capacity[m].slack == 0 then
+		printf "\ttime capacity for machine %s\n", m > dubeiche_zhaocin3.out;
+	}
+
+
+if total_warehouse_capacity.slack == 0 then
+	printf "\ttotal warehouse capacity\n" > dubeiche_zhaocin3.out;
+	
+	
