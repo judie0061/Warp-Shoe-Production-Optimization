@@ -13,8 +13,6 @@ table demandTab "ODBC" "./WARP2011W.mdb" "SQL=SELECT Product_Num, SUM(Demand)/6 
 	
 	
 	
-
-
 table machineTab "ODBC" "./WARP2011W.mdb" "Machine_Master":
 	M <- [Machine_Num], oper_cost ~ OpCost_per_min;
 	read table machineTab;
@@ -38,6 +36,7 @@ table rawMatShoe "ODBC" "./WARP2011W.mdb" "BOM":
 table avgDurTab "ODBC" "./WARP2011W.mdb" "Machine_Assign":
 	[Product_Num,Machine_Num], duration ~ Avg_Duration;
 	read table avgDurTab;
+
 
 
 
